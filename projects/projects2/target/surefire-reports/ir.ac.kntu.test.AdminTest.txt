@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ir.ac.kntu.test.AdminTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.002 sec - in ir.ac.kntu.test.AdminTest

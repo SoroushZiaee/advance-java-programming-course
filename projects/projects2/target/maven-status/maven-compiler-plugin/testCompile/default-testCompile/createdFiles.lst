@@ -1,0 +1,9 @@
+ir/ac/kntu/test/ProfTest.class
+ir/ac/kntu/test/AdminTest.class
+ir/ac/kntu/test/DatabaseTest.class
+ir/ac/kntu/test/StudentTest.class
+ir/ac/kntu/test/LessonTest.class
+ir/ac/kntu/style/CheckPMDTest.class
+ir/ac/kntu/test/OfflineLessonTest.class
+ir/ac/kntu/test/OnlineCourseTest.class
+ir/ac/kntu/style/CheckStyleTest.class
